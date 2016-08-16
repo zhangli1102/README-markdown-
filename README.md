@@ -47,7 +47,7 @@
 
 ### 链接
 1. [点击这里你可以链接到www.google.com](http://www.google.com)<br />
-2. [点击这里你可以链接到我的github](www.github.com/zhangli1102)<br />
+2. [点击这里你可以链接到我的github](https:www.github.com/zhangli1102)<br />
 
 ### 只是显示百度图片
 ![baidu-images](http://www.baidu.com/img/bdlogo.png "baidu")
